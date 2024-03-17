@@ -1,2 +1,2 @@
 #!/bin/bash
-flask --app myapp run
+flask --app flaskr run --debug
